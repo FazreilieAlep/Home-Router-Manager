@@ -1,5 +1,3 @@
 ruleless name,ruleless mac address,ruled name,ruled mac address,currentStatus,statusForRuledMac,maxStationNumber,dailyLimit(GB),lastSubscibedDate
-mama,20:31:1C:FE:2F:6F,iman,9C:5C:F9:BD:40:61,scheduled,on,7.0,10.0,20/06/2022
-Fast-s-Tab-S6-Lite,18:CE:94:81:28:E0,dekHan,E8:5A:8B:A3:01:BD,,,,,
-DESKTOP-1HG570K,3C:6A:A7:A3:A7:A0,dekFei,9C:BC:F0:1F:1C:64,,,,,
-Galaxy A31,68:BF:C4:79:6B:30, ,,,,,,
+test1,22:21:1C:FE:2F:6F,test2,9C:CC:F9:BD:40:61,scheduled,on,7.0,10.0,20/06/2022
+
